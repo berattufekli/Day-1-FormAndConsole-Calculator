@@ -1,0 +1,10 @@
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\berat\Desktop\Hüseyin Berat Tüfekli - Calculator\Calculater\obj\Debug\netcoreapp3.1\Calculator.pdb
